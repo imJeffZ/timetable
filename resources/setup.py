@@ -14,7 +14,7 @@ course_dir = resource_root + "/courses"
 mkdir(course_dir)
 uoft.Courses.scrape(course_dir)
 
-building_dir = resource_root + "/buildings"
-mkdir(building_dir)
-uoft.Buildings.campuses = ['utsg']
-uoft.Buildings.scrape(building_dir)
+# building_dir = resource_root + "/buildings"
+# mkdir(building_dir)
+# uoft.Buildings.campuses = ['utsg']
+# uoft.Buildings.scrape(building_dir)
