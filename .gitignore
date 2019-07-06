@@ -43,7 +43,7 @@ Thumbs.db
 /course-arrange/
 
 # resources
-/resources/courses/
+# /resources/courses/
 /resources/buildings/
 
 # env var file
